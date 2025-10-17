@@ -45,8 +45,5 @@ To provide business stakeholders with clear insights into revenue, growth opport
 
 ---
 
-Dashboard Preview
-![Sales Dashboard](power-bi-images/sales-dashboard.png)
----
 
 
